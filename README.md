@@ -1,6 +1,6 @@
 [![Header](https://github.com/yanapol/yanapol/blob/main/assets/logo.png)](https://www.linkedin.com/in/yanapoliakova/)
 
-About me
+## QA Analyst, passionate about testing
 
 My CV
 
