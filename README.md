@@ -1,4 +1,4 @@
-[![Header](https://github.com/yanapol/yanapol/blob/main/assets/logo.png)](https://www.linkedin.com/in/yanapoliakova/)
+[![Header](https://github.com/yanapol/yanapol/blob/main/assets/logo_white.png)](https://www.linkedin.com/in/yanapoliakova/)
 
 ## QA Analyst, passionate about testing
 
