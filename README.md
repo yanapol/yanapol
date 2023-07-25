@@ -3,7 +3,7 @@
 ## QA Analyst, passionate about testing
 
 ## My CV
-I'm a QA analyst, and I find great satisfaction in ensuring the quality and reliability of software through rigorous testing and problem-solving. I am passionate about testing and have a strong desire to continuously improve and optimize the testing process. I believe in the value of thorough testing to deliver high-quality products to end-users. If you would like to learn more about my qualifications and experience, please feel free to [check out my CV](https://drive.google.com/file/d/1THNgMEx0kkE1DLXkjoIJ18ygUxSBC_N3/view?usp=drive_link)
+I'm a QA analyst, and I find great satisfaction in ensuring the quality and reliability of software through rigorous testing and problem-solving. I am passionate about testing and have a strong desire to continuously improve and optimize the testing process. I believe in the value of thorough testing to deliver high-quality products to end-users. Here you can learn more about me
 
 ## Languages and Tools
 
